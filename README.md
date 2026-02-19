@@ -20,6 +20,8 @@ Google GIS works in the browser without a backend.
 
 Google Calendar API can be called from the frontend using the token.
 
+---
+
 ## Screenshot
 
 #### This event is created through this application on my google celender.
