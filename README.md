@@ -2,7 +2,7 @@
 
 - npm install
 
-- Replace YOUR_CLIENT_ID_HERE in app/page.tsx with your Google Client ID.
+- Create .env and put your Google Client ID there.
 
 - Make sure http://localhost:3000 is in your Google Cloud Console's Authorized JavaScript origins.
 
